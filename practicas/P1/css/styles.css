@@ -1,0 +1,27 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color:rgb(180, 161, 218)
+}
+
+h1{
+    color: darkgreen;
+}
+
+.MiParrafo{
+    color: darkgreen;
+    font-size: 18px;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: azure;
+    color: saddlebrown;
+    /*border: none;*/
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 20px;
+}
+
+button:hover{
+    background-color: chocolate;
+}
